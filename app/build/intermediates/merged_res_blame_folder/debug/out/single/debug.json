@@ -1,0 +1,1274 @@
+[
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/layout_activity_detail_event.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/activity_detail_event.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_location.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_location.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_notification.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_notification.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_logout.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_logout.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_rutas.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_rutas.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_rutas.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_rutas.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_location2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_location2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_warning.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_warning.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_info.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_info.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_notification.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_notification.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_location.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_location.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_filtro.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_filtro.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_road.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_road.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_baseline_directions_bike_24.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_baseline_directions_bike_24.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_plus.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_plus.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_baseline_directions_bike_24.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_baseline_directions_bike_24.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_login.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_login.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_drawer.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_drawer.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable_border.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/drawable/border.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/layout_fragment_info.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/fragment_info.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/layout_activity_alerts.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/activity_alerts.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_interes2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_interes2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_home2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_home2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_user.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_user.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_edit.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_edit.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_calendar.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_calendar.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_location.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_location.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_warning2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_warning2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_notification.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_notification.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_clock.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_clock.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_user.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_user.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_sos.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_sos.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_menu_slideshow.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_menu_slideshow.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_filtro.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_filtro.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_baseline_directions_bike_24.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_baseline_directions_bike_24.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/layout_activity_login.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_interes2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_interes2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/layout_app_bar_home.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/app_bar_home.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_password.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_password.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable_diseniocirculoperfil.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/drawable/diseniocirculoperfil.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable_diseniolinebottom.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/drawable/diseniolinebottom.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/layout_fragment_main_tabs.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/fragment_main_tabs.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_location2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_location2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_rutas.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_rutas.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_user2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_user2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_email.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_email.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_nit.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_nit.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_menu_camera.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_menu_camera.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_goback.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_goback.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_calendar.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_calendar.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_bike2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_bike2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_filtro.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_filtro.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_email2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_email2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_edit.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_edit.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_logout.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_logout.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable_diseniobotonaceptar.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/drawable/diseniobotonaceptar.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/layout_activity_info.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/activity_info.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_menu_gallery.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_menu_gallery.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_interes.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_interes.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_home.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_home.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_password.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_password.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_home.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_home.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_location2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_location2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_menu_camera.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_menu_camera.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable_disenioformulario.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/drawable/disenioformulario.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_notification.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_notification.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_bike2.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_bike2.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_info.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_info.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_home2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_home2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_interes.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_interes.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_logout.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_logout.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_info.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_info.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_nit.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_nit.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_clear.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_clear.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_filtro.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_filtro.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_warning2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_warning2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_nit.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_nit.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable_bordertop.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/drawable/bordertop.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_logout.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_logout.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_plus.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_plus.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_user.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_user.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable_diseniorectangle.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/drawable/diseniorectangle.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_user2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_user2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_person.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_person.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_notification.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_notification.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_interes.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_interes.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_sos.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_sos.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_menu_gallery.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_menu_gallery.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_age.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_age.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_goback.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_goback.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_user2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_user2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_logout.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_logout.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable_diseniocuadrado2.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/drawable/diseniocuadrado2.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_sos.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_sos.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_home2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_home2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_interes.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_interes.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_user.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_user.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_menu_slideshow.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_menu_slideshow.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/layout_activity_tutorial.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/activity_tutorial.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_menu_camera.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_menu_camera.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_clear.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_clear.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_menu_slideshow.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_menu_slideshow.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_home2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_home2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_user2.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_user2.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_drawer.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_notification.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_notification.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_age.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_age.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable_disenioinput.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/drawable/disenioinput.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_nit.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_nit.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_menu_camera.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_menu_camera.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_sos.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_sos.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_interes2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_interes2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/layout_app_bar_secundary.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/app_bar_secundary.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_rutas.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_rutas.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/layout_activity_notification.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/activity_notification.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_age.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_age.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_bike2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_bike2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable_diseniocirculousuario.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/drawable/diseniocirculousuario.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_clock.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_clock.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_person.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_person.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_bike2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_bike2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_nit.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_nit.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable_diseniocirculo2.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/drawable/diseniocirculo2.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_logout.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_logout.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_clear.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_clear.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_unnamed.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/drawable-hdpi/unnamed.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_user.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_user.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_drawer.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_menu_camera.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_email2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_email2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_clock.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_clock.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_email.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_email.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_drawer.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_age.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_age.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_login.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_login.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/layout_content_home.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/content_home.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable_diseniocirculogris.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/drawable/diseniocirculogris.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_menu_slideshow.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_warning.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_warning.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_calendar.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_calendar.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable_side_nav_bar.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_home.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_home.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_filtro.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_filtro.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_sos.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_sos.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/layout_activity_create_event.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/activity_create_event.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/layout_fragment_gallery.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_clock.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_clock.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable_diseniocuadrado3.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/drawable/diseniocuadrado3.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_road.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_road.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_email2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_email2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_email.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_email.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_email2.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_email2.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_plus.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_plus.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_road.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_road.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_edit.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_edit.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/menu_activity_home_drawer.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/menu/activity_home_drawer.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_info.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_info.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_sos.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_sos.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_home.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_home.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_warning2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_warning2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_password.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_password.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_info.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_info.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable_diseniocuadrado.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/drawable/diseniocuadrado.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_location2.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_location2.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_clock.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_clock.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_road.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_road.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_interes2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_interes2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_warning.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_warning.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_goback.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_goback.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_plus.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_plus.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_nit.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_nit.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_goback.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_goback.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_calendar.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_calendar.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_drawer.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_home2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_home2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_interes.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_interes.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_password.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_password.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_user2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_user2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_location.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_location.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_login.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_login.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_edit.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_edit.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_person.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_person.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_sos.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_sos.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_location2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_location2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_rutas.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_rutas.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_clear.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_clear.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_calendar.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_calendar.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_menu_gallery.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_menu_gallery.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_location2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_location2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_notification.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_notification.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_logout.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_logout.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_email2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_email2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_person.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_person.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_bike2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_bike2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_person.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_person.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_home.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_home.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_menu_gallery.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_menu_gallery.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable_diseniocirculo.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/drawable/diseniocirculo.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_interes2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_interes2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/layout_activity_event.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/activity_event.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_warning2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_warning2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_email.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_email.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_age.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_age.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_edit.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_edit.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_road.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_road.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_password.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_password.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_drawer.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_plus.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_plus.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_email.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_email.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_rutas.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_rutas.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/layout_card_evento_propio.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/card_evento_propio.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_login.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_login.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_clock.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_clock.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_age.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_age.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_login.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_login.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_email2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_email2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_baseline_directions_bike_24.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_baseline_directions_bike_24.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_edit.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_edit.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_interes.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_interes.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_location2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_location2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/layout_activity_profile.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_menu_gallery.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_menu_camera.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_menu_camera.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_baseline_directions_bike_24.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_baseline_directions_bike_24.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_clear.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_clear.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_calendar.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_calendar.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_bike2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_bike2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_clear.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_clear.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_menu_slideshow.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_menu_slideshow.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/layout_card_evento_participado.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/card_evento_participado.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_road.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_road.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_calendar.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_calendar.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_password.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_password.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_plus.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_plus.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/layout_fragment_alerts.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/fragment_alerts.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_drawer.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/layout_activity_edit_route.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/activity_edit_route.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_filtro.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_filtro.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_bike2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_bike2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_goback.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_goback.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/layout_card_evento_propio2.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/card_evento_propio2.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_warning2.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_warning2.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_location.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_location.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_password.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_password.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_warning2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_warning2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_edit.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_edit.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_email.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_email.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_login.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_login.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_menu_gallery.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_menu_gallery.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_email2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_email2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/layout_item_list_ruta.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/item_list_ruta.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_home.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_home.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_warning.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_warning.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_user2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_user2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_email.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_email.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_user.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_user.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_interes2.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_interes2.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_goback.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_goback.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_goback.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_goback.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_interes.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_interes.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_clear.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_clear.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_login.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_login.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_menu_gallery.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_menu_gallery.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/layout_fragment_home.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_warning.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_warning.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_rutas.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_rutas.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_nit.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_nit.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_location.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_location.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_baseline_directions_bike_24.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_baseline_directions_bike_24.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/layout_activity_routes.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/activity_routes.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_user2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_user2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_menu_camera.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_menu_camera.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_warning.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_warning.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/layout_activity_home.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/layout_fragment_drawer.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/fragment_drawer.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_interes2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_interes2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_location.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_location.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_plus.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_plus.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_info.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_info.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_age.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_age.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_person.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_person.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_baseline_directions_bike_24.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_baseline_directions_bike_24.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_home2.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_home2.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_warning2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_warning2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_info.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_info.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/layout_activity_create_alert.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/activity_create_alert.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_clock.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_clock.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_menu_slideshow.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_menu_slideshow.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/layout_activity_register.xml.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_filtro.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_filtro.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_warning.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_warning.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_person.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_person.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_home.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_home.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_home2.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_home2.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_user.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_user.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_menu_slideshow.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_menu_slideshow.png"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_road.png.flat",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_road.png"
+    }
+]

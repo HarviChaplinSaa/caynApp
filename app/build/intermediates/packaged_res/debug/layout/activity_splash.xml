@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+
+
+    <FrameLayout
+        android:layout_width="400dp"
+        android:layout_height="400dp"
+        android:background="@drawable/diseniocirculo"
+        android:translationX="-160dp"
+        android:translationY="-150dp"
+        android:translationZ="100dp" />
+
+    <FrameLayout
+        android:layout_width="400dp"
+        android:layout_height="400dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/diseniocirculo"
+        android:translationX="160dp"
+        android:translationY="150dp"
+        android:translationZ="100dp"
+        android:visibility="visible" />
+
+</RelativeLayout>

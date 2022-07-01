@@ -1,0 +1,74 @@
+<resources>
+
+    <!--    opciones de genero-->
+    <string-array name="gen_array">
+        <item>Genero</item>
+        <item>Masculino</item>
+        <item>Femenino</item>
+        <item>Otro</item>
+    </string-array>
+    <!--    opciones de genero-->
+    <string-array name="filter_array">
+        <item>Fecha</item>
+        <item>Nombre</item>
+        <item>Asistentes</item>
+    </string-array>
+    <!--    api key -->
+    <string name="api">AIzaSyBfdP0_IRpAgq_7r5qLV0hJ3kw-usxKgTw</string>
+    <!-- aplicacion    -->
+    <string name="app_name">caynApp</string>
+    <!--    Generales-->
+    <string name="txt_label_correo">Correo</string>
+    <string name="txt_label_nit">Documento</string>
+    <string name="txt_label_contrasenia">Contraseña</string>
+    <string name="btn_continuar">Continuar</string>
+    <string name="txt_nombre_prueba">Arvey Saavedra</string>
+    <string name="txt_header_rutas">Rutas</string>
+    <!-- login   -->
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="txt_placeholder_correo">alguien@ejemplo.com</string>
+    <string name="txt_placeholder_contrasenia">**************</string>
+    <string name="txt_link_recuperar_contrasenia">Olvidé mi contraseña</string>
+    <string name="txt_link_registrarse">¿Aún no haces parte? Registrate!</string>
+    <!--    Register-->
+    <string name="btn_registrar">Registrar</string>
+    <string name="txt_label_nombre">Nombre</string>
+    <string name="txt_label_edad">Edad</string>
+    <string name="txt_label_genero">Genero</string>
+    <string name="txt_label_confirmar">Confirmar contraseña</string>
+    <string name="txt_link_iniciar_sesion">¿Ya tienes cuenta? Inicia sesión</string>
+    <!-- Tutorial-->
+    <string name="txt_link_omitir_tutorial">Omitir</string>
+    <!-- Drawer-->
+    <string name="txt_link_editar_perfil">Editar perfil</string>
+    <string name="btn_cerrar_sesion">Cerrar sesion</string>
+    <string name="btn_home">Inicio</string>
+    <string name="btn_sos">S.O.S</string>
+    <!-- Home-->
+    <string name="txt_creaciones">TUS CREACIONES</string>
+    <string name="txt_link_ver_creaciones">Ver todas</string>
+    <string name="txt_destacados">DESTACADOS</string>
+    <string name="txt_participaciones">TUS PARTICIPACIONES</string>
+    <string name="txt_nombre_evento">Nombre:</string>
+    <string name="txt_fecha_inicio">Inicio:</string>
+    <string name="txt_fecha_fin">Fin:</string>
+    <string name="txt_sin_eventos">Aún no tienes eventos agendados. ¿Qué estas esperando?</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="menu_gallery">Gallery</string>
+
+    <!-- MAIN TABS-->
+    <string name="txt_alertas">Alertas</string>
+    <string name="txt_rutas">Rutas</string>
+    <string name="txt_inicio">Inicio</string>
+    <string name="txt_eventos">Eventos</string>
+    <string name="txt_info">Info</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_detail_event">DetailEventActivity</string>
+
+</resources>

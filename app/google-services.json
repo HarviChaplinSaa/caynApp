@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "865005466178",
+    "project_id": "caynapp-c665a",
+    "storage_bucket": "caynapp-c665a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865005466178:android:7faa4df9c5da015baaf3db",
+        "android_client_info": {
+          "package_name": "co.cayn.caynapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865005466178-d5pvhfjsghir56gkqgck9lp50odpm7ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDui9IfqHEksbwebyWMUAUvwS6pm4aiuFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865005466178-d5pvhfjsghir56gkqgck9lp50odpm7ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865005466178:android:2676a09ade5320c9aaf3db",
+        "android_client_info": {
+          "package_name": "com.cayn.caynapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865005466178-d5pvhfjsghir56gkqgck9lp50odpm7ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDui9IfqHEksbwebyWMUAUvwS6pm4aiuFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865005466178-d5pvhfjsghir56gkqgck9lp50odpm7ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

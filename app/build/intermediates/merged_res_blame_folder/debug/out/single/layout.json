@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_login.xml",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_home.xml",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/content_home.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_drawer.xml",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/fragment_drawer.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_alerts.xml",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/fragment_alerts.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_create_event.xml",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/activity_create_event.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_event.xml",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/activity_event.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_notification.xml",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/activity_notification.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_info.xml",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/fragment_info.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_home.xml",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_create_alert.xml",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/activity_create_alert.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/app_bar_home.xml",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/app_bar_home.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_register.xml",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_main_tabs.xml",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/fragment_main_tabs.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_splash.xml",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_detail_event.xml",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/activity_detail_event.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_alerts.xml",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/activity_alerts.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_profile.xml",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_gallery.xml",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_list_ruta.xml",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/item_list_ruta.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/card_evento_propio2.xml",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/card_evento_propio2.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/card_evento_participado.xml",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/card_evento_participado.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_info.xml",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/activity_info.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_routes.xml",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/activity_routes.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/app_bar_secundary.xml",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/app_bar_secundary.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_tutorial.xml",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/activity_tutorial.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/card_evento_propio.xml",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/card_evento_propio.xml"
+    },
+    {
+        "merged": "/Users/amovil/Desktop/arvey/caynapp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_edit_route.xml",
+        "source": "/Users/amovil/Desktop/arvey/caynapp/app/src/main/res/layout/activity_edit_route.xml"
+    }
+]

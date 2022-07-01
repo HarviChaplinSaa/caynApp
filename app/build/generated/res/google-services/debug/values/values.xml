@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">865005466178-d5pvhfjsghir56gkqgck9lp50odpm7ac.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">865005466178</string>
+    <string name="google_api_key" translatable="false">AIzaSyDui9IfqHEksbwebyWMUAUvwS6pm4aiuFc</string>
+    <string name="google_app_id" translatable="false">1:865005466178:android:2676a09ade5320c9aaf3db</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDui9IfqHEksbwebyWMUAUvwS6pm4aiuFc</string>
+    <string name="google_storage_bucket" translatable="false">caynapp-c665a.appspot.com</string>
+    <string name="project_id" translatable="false">caynapp-c665a</string>
+</resources>
